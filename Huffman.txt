@@ -1,0 +1,23 @@
+Number of strings to be encoded: 8
+Strings with their probablities: 
+x1 0.22
+x2 0.2
+x3 0.18
+x4 0.15
+x5 0.1
+x6 0.08
+x7 0.05
+x8 0.02
+
+Output:
+x1 01
+x2 00
+x3 111
+x4 101
+x5 100
+x6 1101
+x7 11001
+x8 11000
+Entropy: 2.75349
+Average Length: 2.8
+Efficiency=0.983388
